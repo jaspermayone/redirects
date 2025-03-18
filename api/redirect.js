@@ -15,7 +15,7 @@ export default function handler(req, res) {
     'coffee.jaspermayone.com': 'https://buymeacoffee.com/jaspermayone', // Fixed typo in "coffee"
     'reddit.jaspermayone.com': 'https://www.reddit.com/user/j-dogcoder',
     'matrix.jaspermayone.com': 'https://matrix.to/#/@jasper.mayone:matrix.org',
-    'dev-to.jaspermayone.com': 'https://dev.to/jaspermayone',
+    'devto.jaspermayone.com': 'https://dev.to/jaspermayone',
   };
 
   // Special case redirects (handling specific paths and nested subdomains)
