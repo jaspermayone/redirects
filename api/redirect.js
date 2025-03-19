@@ -16,6 +16,7 @@ export default function handler(req, res) {
     'reddit.jaspermayone.com': 'https://www.reddit.com/user/j-dogcoder',
     'matrix.jaspermayone.com': 'https://matrix.to/#/@jasper.mayone:matrix.org',
     'devto.jaspermayone.com': 'https://dev.to/jaspermayone',
+    'hackerone.jaspermayone.com': "https://hackerone.com/jmayonee",
   };
 
   // Special case redirects (handling specific paths and nested subdomains)
