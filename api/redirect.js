@@ -17,6 +17,9 @@ export default function handler(req, res) {
     'matrix.jaspermayone.com': 'https://matrix.to/#/@jasper.mayone:matrix.org',
     'devto.jaspermayone.com': 'https://dev.to/jaspermayone',
     'hackerone.jaspermayone.com': "https://hackerone.com/jmayone",
+    'producthunt.jaspermayone.com': 'https://www.producthunt.com/@jaspermayone', // Added Product Hunt
+    'hackernews.jaspermayone.com': 'https://news.ycombinator.com/user?id=jaspermayone', // Added Hacker News
+    'thingiverse.jaspermayone.com': "https://www.thingiverse.com/preamble6098/"
   };
 
   // Special case redirects (handling specific paths and nested subdomains)
