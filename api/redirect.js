@@ -19,7 +19,9 @@ export default function handler(req, res) {
     'hackerone.jaspermayone.com': "https://hackerone.com/jmayone",
     'producthunt.jaspermayone.com': 'https://www.producthunt.com/@jaspermayone', // Added Product Hunt
     'hackernews.jaspermayone.com': 'https://news.ycombinator.com/user?id=jaspermayone', // Added Hacker News
-    'thingiverse.jaspermayone.com': "https://www.thingiverse.com/preamble6098/"
+    'thingiverse.jaspermayone.com': "https://www.thingiverse.com/preamble6098/",
+    'keyoxide.jaspermayone.com': 'https://keyoxide.org/00E643C21FAC965FFB28D3B714D0D45A1DADAAFA',
+    'keyoxide.jsp.lat': 'https://keyoxide.org/00E643C21FAC965FFB28D3B714D0D45A1DADAAFA',
   };
 
   // Special case redirects (handling specific paths and nested subdomains)
