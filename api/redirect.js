@@ -4,7 +4,8 @@ export default function handler(req, res) {
 
   // Basic redirects (direct domain to destination mapping)
   const redirects = {
-    'jaspermayone.cv': 'https://jasper.cv',
+    "jaspermayone.cv": "https://jasper.cv",
+    "cv.jaspermayone.com": "https://jasper.cv",
   };
 
   // Check for basic redirects
